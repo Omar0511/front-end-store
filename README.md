@@ -4,6 +4,15 @@
 
 - Visual Studio Code
 
+### Tipografía
+
+- Google Fonts
+- Staatliches (regular 400)
+
+### Iconos
+
+-
+
 ### Tecnologías
 
 - HTML5
@@ -12,4 +21,9 @@
 ### Descripción
 
 1.
+
+### URL
+
+- sitios **(https://front-end-store-clothes.netlify.app)**
+
 
