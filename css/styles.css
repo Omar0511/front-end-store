@@ -1,3 +1,17 @@
+/* 
+    Notas
+    BEM :
+    Bloques: son un contenedor.
+    Una sección significativa y no requiere de otras secciones debe de ir en bloque
+    Ej: <div clas="cliente"> </div>
+    Elementos: parte de un bloque.
+    Depende del bloque y no es por si solo significativo.
+    Ej: <div clas="cliente__nombre"> </div>
+    Modificador: ¿Un Bloque o un Elemento tendrá una variantes?.
+    Se utiliza como una bandera, notifica que ese elemento tendrá un diseño diferente
+    Ej: <div clas="cliente__nombre-ceo"> </div>
+*/
+
 :root {
     --fuente-principal: 'Staatliches', cursive;
     --primario: #9C2780;
@@ -61,4 +75,34 @@ h2 {
 
 h3 {
     font-size: 2.4rem;
+}
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header__logo {
+    margin: 3rem 0;
+}
+
+/* Navegación */
+.navegacion {
+    background-color: var(--primarioOscuro);
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.navegacion__enlace {
+    font-family: var(--fuente-principal);
+    color: var(--blanco);
+    font-size: 3rem;
+}
+
+.navegacion__enlace--activo,
+.navegacion__enlace:hover {
+    color: var(--secundario);
 }

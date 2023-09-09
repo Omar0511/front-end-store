@@ -17,6 +17,8 @@
 
 - HTML5
 - CSS3
+- BEM
+-
 
 ### Descripción
 
