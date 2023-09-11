@@ -9,20 +9,18 @@
 - Google Fonts
 - Staatliches (regular 400)
 
-### Iconos
-
--
-
 ### Tecnologías
 
 - HTML5
 - CSS3
 - BEM
--
+- Responsive Web Design
+- Media Queries
+- CSS Grid
 
 ### Descripción
 
-1.
+1. Proyecto sobre tienda en línea
 
 ### URL
 
