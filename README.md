@@ -7,7 +7,7 @@
 ### Tipografía
 
 - Google Fonts
-- Staatliches (regular 400)
+- _Staatliches (regular 400)_
 
 ### Tecnologías
 
@@ -20,10 +20,8 @@
 
 ### Descripción
 
-1. Proyecto sobre tienda en línea
+- Tienda en línea
 
 ### URL
 
-- sitios **(https://front-end-store-clothes.netlify.app)**
-
-
+- Sitio: **(https://front-end-store-clothes.netlify.app)**
